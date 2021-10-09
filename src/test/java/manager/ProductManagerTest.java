@@ -1,3 +1,5 @@
+package manager;
+
 import domain.Book;
 import domain.Product;
 import domain.Smartphone;

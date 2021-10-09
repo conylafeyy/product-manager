@@ -1,3 +1,5 @@
+package repository;
+
 import domain.Product;
 import domain.Smartphone;
 import manager.ProductManager;
