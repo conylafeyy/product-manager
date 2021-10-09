@@ -1,3 +1,10 @@
+package manager;
+
+import domain.Book;
+import domain.Product;
+import domain.Smartphone;
+import repository.ProductRepository;
+
 public class ProductManager {
     ProductRepository repository;
 

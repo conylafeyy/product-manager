@@ -1,5 +1,9 @@
+import domain.Product;
+import domain.Smartphone;
+import manager.ProductManager;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import repository.ProductRepository;
 
 import static org.junit.jupiter.api.Assertions.*;
 

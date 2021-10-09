@@ -1,3 +1,7 @@
+package repository;
+
+import domain.Product;
+
 public class ProductRepository {
     private Product[] products = new Product[0];
 
